@@ -1,10 +1,10 @@
-- 👋 Hello World, I’m @Nardini5121. Many have called me Dave, but more by David. but either one is fine.
-- 👀 I’m interested in the satifaction from learning; Ai, and and becoming a Web 3 developer.
-- 🌱 I’m currently learning patience with my self while changing my career field and the basics of software development,
-- 💞️ I’m looking to collaborate on anything that will standout and make a difference for the betterment of humanity... To corney? 
-- 📫 my email is livinglegacy5121@gmail.com or you can contact me through here also.
-- 😄 Pronouns: He/Him. I'm a dude... also, Im Batman! Nah, just joshin'.
-- ⚡ Fun fact: Cats mimic human babies to get humans to feed them. Cats also don't meow to communicate with other cats, only to humans.
+- 👋 Asawdude!, I’m @Nardini5121. I'm from Denver Colorado. Where the sky meets the Rockies!
+- 👀 I’m interested in Software Development and Riding my SportsBike.
+- 🌱 I’m currently learning patience with myself while changing my career field and the basics of learning to code.
+- 💞️ I’m looking to collaborate on anything that will standout and make a difference for the betterment of humanity.  ...Wait was that the right answer? 
+- 📫 my email is dpnardin1@live.com.
+- 😄 Pronouns: He/Him/CoolDad
+- ⚡ Fun fact: 'Petrichor' is the earthy smell produced when rain falls on dry soil. 
 
 <!---
 Nardini5121/Nardini5121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
